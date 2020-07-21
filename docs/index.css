@@ -1,0 +1,38 @@
+/* https://www.modularscale.com/?16&px&1.618 */
+
+@import "github.css";
+
+body {
+  font-family: system-ui;
+  font-size: 16px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h1,
+h2,
+h3 {
+  margin-bottom: 0;
+}
+
+h1 {
+  font-weight: lighter;
+  font-size: 67.77300262451172px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 41.887001037597656px;
+}
+
+h3 {
+  font-size: 25.88800048828125px;
+}
+
+code {
+  font-family: "SFMono-Regular";
+}
